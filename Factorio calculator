@@ -1,11 +1,11 @@
-fast-inserter-belt= 2.31
-fast-inserter-belt-bonus2 = 4.44
-fast-inserter-belt-bonus7 = 6.00
+fast_inserter_belt= 2.31
+fast_inserter_belt_bonus2 = 4.44
+fast_inserter_belt_bonus7 = 6.00
 
-assembling machine 1 cradting speed = 0.5
-assembling machine 1 pollution = 4
-assembling machine 1 power = 75
+assembling_machine_1_crafting_speed = 0.5
+assembling_machine_1_pollution = 4
+assembling_machine_1_power = 75
 
-assembling machine 2 crafting speed = 0.75
-assembling machine 2 pollution = 3
-assembling machine 2 power = 150
+assembling_machine_2_crafting_speed = 0.75
+assembling_machine_2_pollution = 3
+assembling_machine_2_power = 150
