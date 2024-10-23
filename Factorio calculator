@@ -1,3 +1,7 @@
 fast-inserter-belt= 2.31
 fast-inserter-belt-bonus2 = 4.44
 fast-inserter-belt-bonus7 = 6.00
+
+assembling machine 2 crafting speed = 0.75
+assembling machine 2 pollution = 3
+assembling mahchine power = 150
